@@ -2,7 +2,7 @@ import { FunctionComponent } from "react";
 import HeaderMypage from "../components/HeaderMypage";
 import SizeSmallIconLeftFalseI from "../components/SizeSmallIconLeftFalseI";
 import InputAWAvataraEnabled from "../components/InputAWAvataraEnabled";
-import SizeMediumIconLeftFalse from "../components/SizeMediumIconLeftFalse";
+import SizeMediumIconLeftFalse from "../components/SizeMediumIconLeftFalse1";
 import MediaCardForm from "../components/MediaCardForm";
 import styles from "./K101.module.css";
 const K101: FunctionComponent = () => {

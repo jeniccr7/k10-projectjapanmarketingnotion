@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import SizeMediumIconLeftFalse from "./SizeMediumIconLeftFalse";
+import SizeMediumIconLeftFalse from "./SizeMediumIconLeftFalse1";
 import InputAWAvataraEnabled from "./InputAWAvataraEnabled";
 import styles from "./MediaComparisonContainer.module.css";
 const MediaComparisonContainer: FunctionComponent = () => {

@@ -47,7 +47,7 @@
   width: 256px;
   height: 40px;
   text-align: left;
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
   color: var(--color-gray-200);
-  font-family: var(--components-button-large);
+  font-family: var(--material-theme-body-medium);
 }

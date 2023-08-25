@@ -1,6 +1,6 @@
 import { FunctionComponent } from "react";
 import InputAWAvataraEnabled from "./InputAWAvataraEnabled";
-import SizeMediumIconLeftFalse from "./SizeMediumIconLeftFalse";
+import SizeMediumIconLeftFalse from "./SizeMediumIconLeftFalse1";
 import styles from "./MediaCardForm.module.css";
 const MediaCardForm: FunctionComponent = () => {
   return (

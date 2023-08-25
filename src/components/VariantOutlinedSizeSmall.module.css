@@ -29,5 +29,5 @@
   text-align: left;
   font-size: var(--components-button-small-size);
   color: var(--text-primary);
-  font-family: var(--components-button-large);
+  font-family: var(--material-theme-body-medium);
 }

@@ -334,7 +334,7 @@
   align-items: center;
   justify-content: center;
   gap: var(--gap-7xs);
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
 }
 .p {
   margin: 0;
@@ -485,7 +485,7 @@
   right: 0;
   bottom: 94.92%;
   left: 0;
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
 }
 .bgParent {
   position: absolute;
@@ -496,5 +496,5 @@
   text-align: left;
   font-size: var(--material-theme-body-small-size);
   color: var(--black);
-  font-family: var(--components-button-large);
+  font-family: var(--material-theme-body-medium);
 }

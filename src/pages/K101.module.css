@@ -456,7 +456,7 @@
   align-items: center;
   justify-content: center;
   gap: var(--gap-7xs);
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
 }
 .p {
   margin: 0;
@@ -607,7 +607,7 @@
   right: 0;
   bottom: 95.83%;
   left: 0;
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
 }
 .bgGroup {
   position: absolute;
@@ -666,7 +666,7 @@
   left: 32px;
   width: 311px;
   height: 72px;
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
   color: var(--red);
 }
 .k10 {
@@ -678,5 +678,5 @@
   text-align: left;
   font-size: var(--font-size-lg);
   color: var(--black);
-  font-family: var(--components-button-large);
+  font-family: var(--material-theme-body-medium);
 }

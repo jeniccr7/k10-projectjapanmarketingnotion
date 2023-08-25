@@ -1,5 +1,5 @@
 import { FunctionComponent, useMemo, type CSSProperties } from "react";
-import VariantOutlinedSizeMedium from "./VariantOutlinedSizeMedium";
+import VariantOutlinedSizeMedium from "./VariantOutlinedSizeMedium2";
 import styles from "./SizeMediumIconLeftFalse1.module.css";
 
 type SizeMediumIconLeftFalseType = {

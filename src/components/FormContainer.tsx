@@ -2,7 +2,7 @@ import { FunctionComponent } from "react";
 import SizeSmallStateEnabledHas from "./SizeSmallStateEnabledHas";
 import SizeMediumIconLeftTrue from "./SizeMediumIconLeftTrue";
 import InputAWAvataraEnabled from "./InputAWAvataraEnabled";
-import SizeMediumIconLeftFalse from "./SizeMediumIconLeftFalse";
+import SizeMediumIconLeftFalse from "./SizeMediumIconLeftFalse1";
 import styles from "./FormContainer.module.css";
 const FormContainer: FunctionComponent = () => {
   return (

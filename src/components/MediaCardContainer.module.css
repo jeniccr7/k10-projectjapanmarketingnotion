@@ -513,7 +513,7 @@
   bottom: 1.64%;
   left: 19.44%;
   text-align: left;
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
   color: var(--black);
-  font-family: var(--components-button-large);
+  font-family: var(--material-theme-body-medium);
 }

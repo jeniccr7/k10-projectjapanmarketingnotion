@@ -315,7 +315,7 @@
 }
 .div5 {
   top: 0;
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
   letter-spacing: 0.25px;
   line-height: 20px;
   color: var(--bluegray);
@@ -624,7 +624,7 @@
   bottom: 26.69%;
   left: 19.44%;
   text-align: left;
-  font-size: var(--body-2-size);
+  font-size: var(--material-theme-body-medium-size);
   color: var(--black);
-  font-family: var(--components-button-large);
+  font-family: var(--material-theme-body-medium);
 }
